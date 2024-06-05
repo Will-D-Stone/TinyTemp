@@ -1,4 +1,4 @@
-# makefile V2.0. This is a makefile for AVR ATmega328P projects using Arduino Uno Dev board
+# This is a makefile for AVR ATmega328P projects using Arduino Uno Dev board
 # ECE-231 Spring 2024. 
 # 
 # Instructions: 
